@@ -69,7 +69,6 @@ grab_version(){
 # handle auth. This should just be executed in your shell and not committed to any files or
 # Github will revoke the token. =)
 # git remote set-url origin https://XXXXXXXXXXX@github.com/EricZimmerman/Voron24Configs.git/
-git remote set-url origin https://ghp__e3bsjPGqV0O8ZR6uzn1olEdQfga3Ki1HXb1w@git@github.com:snakesanti/klipper_i3mega.git/
 # Note that that format is for changing things after the repository is in use, vs initially
 
 push_config(){
